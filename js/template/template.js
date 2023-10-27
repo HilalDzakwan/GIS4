@@ -1,5 +1,5 @@
 export let URLGeoJson = "https://asia-southeast2-formidable-feat-401903.cloudfunctions.net/petapedia";
-export let urlPostGCF = "https://us-central1-gcpospasial.cloudfunctions.net/POSTGEO";
+export let urlPostGCF = "https://asia-southeast2-formidable-feat-401903.cloudfunctions.net/geopost";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
